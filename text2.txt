@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-racemloukil
-=======
-test
-trst
->>>>>>> 7be03e8fea2ec1dcd680971a88eadf50048e40b0
+uiui
